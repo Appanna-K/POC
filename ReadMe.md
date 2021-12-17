@@ -1,1 +1,1 @@
-welcome text
+this repository contains only HTML files that are created for testing purpose.
